@@ -1,2 +1,2 @@
 # TechZlent
-An Awesome tech-blog
+An awesome tech-blog.
